@@ -5,9 +5,9 @@
 für Bla Bla Bla
 
 Nummerierte Liste:  
-1. wegl  
-1. WinterM.  
-1. Volmaier  
+1. Wegl   P. 
+1. Winter M.  
+1. Vollmaier  
 
 |ID       | Name         |
 |-------- | ----------   |
