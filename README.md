@@ -4,7 +4,7 @@
 *Das* ist ein **Beispieltext**  
 für Bla Bla Bla
 
-Nummerierte Liste:  
+**Nummerierte** Liste:  
 1. Wegl   P. 
 1. Winter M.  
 1. Vollmaier  
