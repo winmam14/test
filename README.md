@@ -4,7 +4,8 @@
 **Professor**: SX    
 **Übungsdatum:** 26.09.2018   
 **Author, Kat. Nr:** Winter M, 18  
-**Anwesend:** Vollmaier, Vezonik, Wesonig, Wegl, Winter T.  
+**Anwesend:** Vollmaier, Vezonik, Wesonig, Winter T.   
+**Abwesend:** Wegl
 - - -  
 ## Übersicht  
 #### 1. Übersetzuzngsvorgang von C-Programmen  
