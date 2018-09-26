@@ -1,14 +1,39 @@
-# Test
-## Einheit 18.9.2018
 
-*Das* ist ein **Beispieltext**  
-für Bla Bla Bla
+# Protokoll-1  
+## Thema: Installation von Ubuntu /  Versionsverwaltung / Git 
+**Professor**: SX    
+**Übungsdatum:** 26.09.2018   
+**Author, Kat. Nr:** Winter M, 18  
+**Anwesend:** Vollmaier, Vezonik, Wesonig, Wegl, Winter T.  
+- - -  
+## Übersicht  
+#### 1. Übersetzuzngsvorgang von C-Programmen  
+##### 1.1 Einzelne Schritte
+##### 1.2 Der Compiler
+#### 2. Das Terminal
+##### 2.1 Allgemein
+##### 2.2 Wichtige Befehle
+_ _ _
+  
+### 1. Übersetzuzngsvorgang von C-Programmen  
+Die übersetzung eines Pogrammes funktioniert jedes mal über die gleiche Reihenfolge. 
+#### 1.1  Einzelne Schritte  
+ 
 
-**Nummerierte** Liste:  
-1. Wegl   P. 
-1. Winter M.  
-1. Vollmaier  
+#### 1.2 Der Compiler  
 
-|ID       | Name         |
-|-------- | ----------   |
-|wegpam14 | Wegl Patrick |
+  
+
+  - - -
+### 2. Das Terminal  
+#### 2.1 Allgemein    
+
+#### 2.2 Wichtige Befehle  
+
+
+ 
+  - - -
+  
+    
+
+
