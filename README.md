@@ -20,9 +20,9 @@ _ _ _
 ## 1. Übersetzuzngsvorgang von C-Programmen  
 Der Weg von einer Quellcodedatei bis zu einem funktionierenden Pogramm geschiet jedes  
 mal über die gleiche Reihenfolge, jedoch kann man die Reihenfolge auch unterbrechen wenn man dies möchte.  
-**Blockdiagramm zur Übersicht:**  
-(https://www.bilder-upload.eu/thumb/c8841e-1538417759.jpg)  
+**Blockdiagramm zur erklärung:**  
 
+![alt text](https://www.bilder-upload.eu/thumb/c8841e-1538417759.jpg)  
 ### 1.1  Einzelne Schritte  
  **1.1.1 Die Quellcodedatei**  
  Als erstes muss man die Grundlage für ein C Programm schaffen, dies ist die Quellcodedatei.  
