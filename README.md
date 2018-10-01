@@ -20,8 +20,8 @@ _ _ _
 ### 1. Übersetzuzngsvorgang von C-Programmen  
 Der Weg von einer Quellcodedatei bis zu einem funktionierenden Pogramm geschiet jedes  
 mal über die gleiche Reihenfolge, jedoch kann man die Reihenfolge auch unterbrechen wenn man dies möchte.  
-
-https://www.dropbox.com/s/4gv34sywolgm7lz/Leeres%20Diagramm.svg?dl=0
+Blockdiagramm zur Übersicht:  
+![alt text] (https://www.hr-fernsehen.de/sendungen-a-z/hallo-hessen/aktionen/wetter-bilder_lydia_gierhardt_gedern-100~_t-1504273413628_v-16to7.jpg)
 #### 1.1  Einzelne Schritte  
  
 
