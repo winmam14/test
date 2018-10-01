@@ -45,10 +45,9 @@ mal über die gleiche Reihenfolge, jedoch kann man die Reihenfolge auch unterbre
      
    **1.1.5 Fertiges Programm**  
    Nachdem ein Objektcode erstellt wurde kann nun der Linker seine Arbeit verrichten. Er bindet alle Dateien  
-   aus der Bibliothek ein
+   aus der Bibliothek ein und macht aus dem Objektcode ein fertiges, funktionierendes(solange der Mensch keinen   
+   Fehler gemacht hatt) und ausführbares Programm.  
    
-  
-
   - - -
 ### 2. Das Terminal  
 #### 2.1 Allgemein    
