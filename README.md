@@ -21,6 +21,7 @@ _ _ _
 Der Weg von einer Quellcodedatei bis zu einem funktionierenden Pogramm geschiet jedes  
 mal über die gleiche Reihenfolge, jedoch kann man die Reihenfolge auch unterbrechen wenn man dies möchte.  
 
+https://www.dropbox.com/s/4gv34sywolgm7lz/Leeres%20Diagramm.svg?dl=0
 #### 1.1  Einzelne Schritte  
  
 
