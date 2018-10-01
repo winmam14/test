@@ -14,7 +14,6 @@
 #### 2. Das Terminal
 ##### 2.1 Allgemein
 ##### 2.2 Wichtige Befehle
-#### 3. Eigenhändiges Kompilieren
 _ _ _
   
 ## 1. Übersetzuzngsvorgang von C-Programmen  
@@ -50,13 +49,31 @@ mal über die gleiche Reihenfolge, jedoch kann man die Reihenfolge auch unterbre
    
   - - -
 ### 2. Das Terminal  
-#### 2.1 Allgemein    
+#### 2.1 Allgemein  
+Ein Terminal, auch Shell oder Kommandozeile genannt, stellt eine textbasierte Ein-/Ausgabe-Schnittstelle für ein Computersystem dar. Auch der Begriff Konsole ist geläufig, bezeichnet aber kein Fenster, sondern einen Bildschirm im Textmodus. Im Terminalfenster können Befehle eingegeben und so das System gesteuert oder Dateien bearbeitet werden.
 
-#### 2.2 Wichtige Befehle  
+#### 2.2 Die wichtigsten Befehle  
+```
+cd  
+cd.. 
+```   
+für change directory, nur "cd" bedeuted zurück zum homeverzeichnis, "cd.." bedeuted eine ebene nach Oben 
 
+``` 
+ls
+```  
+gibt eine liste z.b. im aktuellen verzeichnis aus  
+  
+```
+mkdir/rmdir
+```  
+Verzeichnis erstellen/löschen  
 
- 
-  - - -
-  ### 3. Eigenhändiges Kompilieren
+```
+cp
+```  
+um etwas zu kopieren
+
+oder die Tastenkombination _**Strg + C**_ um den Bildschirm zu löschen!
     
 
